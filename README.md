@@ -15,3 +15,7 @@ PAGE_EXECUTE_READWrite - Explorer.exe , Svchost.exe , Csrss.exe , and all system
 malfind - Exproler.exe , Svchost.exe , Csrss.exe , RuntimeBrocker.exe . But not 100% 
 
 its suppicious but not permanet banable . but obiously give punishment 
+
+
+
+If scan only with Volatility than scan malfind and find mov and jmp (explorer.exe and all system critical process like csrss,svchost,Runtimebrocker,CMD without external tools and not criticle process like gamemenager and something else . 
